@@ -1,6 +1,7 @@
 # Bars 4 Pars
 
-A small side project I built for pub golf nights with my partner and friends.
+A small side project I built for people to play pub golf.
+
 
 Honestly just an excuse to experiment with UI design and learn a few new technologies. The goal was simply to make organising rounds and keeping score easier without relying on spreadsheets and group chats.
 
